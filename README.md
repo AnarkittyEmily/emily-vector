@@ -3,4 +3,5 @@ Reimplementation of C++'s vector class, fully supports range based for loops, so
 
 
 # Usage 
-emily::vector<type> vector_name; 
+```
+emily::vector<type> vector_name;```
