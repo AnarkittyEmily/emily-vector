@@ -4,3 +4,6 @@ Reimplementation of C++'s vector class, fully supports range based for loops, so
 
 # Usage 
 ```emily::vector<type> vector_name;```
+
+# Including the file
+```#include "vector.hpp"```
